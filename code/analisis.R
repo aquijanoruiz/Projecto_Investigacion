@@ -1,3 +1,12 @@
-datos <- read.csv("data/enemdu_n_100.csv")
+alonso <- read.csv("data/enemdu_n_100.csv")
 
-nrow(datos)
+alonso
+
+nrow(alonso)
+
+3 + 4
+
+a <- 3
+b <- 4
+
+a + b
